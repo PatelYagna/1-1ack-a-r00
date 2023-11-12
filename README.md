@@ -2,14 +2,14 @@
 Authors: Daniel Huynh, Jacob Pham, Johnny Diep, and Yagna Patel
 
 ## Problem
-We are addressing the problem of correlating environmental factors like water, air, and sanitation quakity  with life expectancy in various populations. 
+We are addressing the problem of correlating environmental factors like water, air, and sanitation quality  with life expectancy in various populations. 
 By analyzing these metrics, we aim to determine the weights of each factor and understand their contribution to life expectancy.
 
 ## Statement
 This information can be used to develop and implement public health interventions that improve environmental conditions and
 promote health and well-being. 
 Goverments can use this model to plan their budgets and health efforts arrcordingly to ensure the welfare of their people and so organizations
-can more specifically focus their efforts within a country. 
+can more specifically focus their efforts within a country.
 
 ## Usage
 To use this program, follow these steps:
